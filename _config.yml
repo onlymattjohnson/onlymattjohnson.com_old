@@ -23,3 +23,6 @@ author:
 # Gems
 gems:
   - jekyll-paginate
+
+# Google Analytics
+analytics_id: UA-220177431-1
