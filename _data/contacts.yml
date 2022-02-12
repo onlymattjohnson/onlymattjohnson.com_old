@@ -4,3 +4,6 @@
 - name: github
   tag: onlymattjohnson
   url: https://github.com/onlymattjohnson/
+- name: linkedin
+  tag: "onlymattjohnson"
+  url: "https://www.linkedin.com/in/onlymattjohnson/"
